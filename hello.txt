@@ -13,4 +13,8 @@ yijiejue
 
 fenzhiguanli
 
+<<<<<<< Updated upstream
 bugfenzhi
+=======
+jiejue bug
+>>>>>>> Stashed changes
